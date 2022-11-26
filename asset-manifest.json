@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/umego_data_visualisation/static/css/main.22318245.css",
+    "main.js": "/umego_data_visualisation/static/js/main.2b838b7d.js",
+    "static/js/787.bc7d429a.chunk.js": "/umego_data_visualisation/static/js/787.bc7d429a.chunk.js",
+    "index.html": "/umego_data_visualisation/index.html",
+    "main.22318245.css.map": "/umego_data_visualisation/static/css/main.22318245.css.map",
+    "main.2b838b7d.js.map": "/umego_data_visualisation/static/js/main.2b838b7d.js.map",
+    "787.bc7d429a.chunk.js.map": "/umego_data_visualisation/static/js/787.bc7d429a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22318245.css",
+    "static/js/main.2b838b7d.js"
+  ]
+}
